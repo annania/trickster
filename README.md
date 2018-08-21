@@ -1,6 +1,7 @@
 # Trickster ![Build Status](https://travis-ci.org/Comcast/trickster.svg)
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/Comcast/trickster)](https://goreportcard.com/report/github.com/Comcast/trickster)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fannania%2Ftrickster.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fannania%2Ftrickster?ref=badge_shield)
 
 Trickster is a reverse proxy cache for the [Prometheus](https://github.com/prometheus/prometheus) [HTTP APIv1](https://prometheus.io/docs/prometheus/latest/querying/api/) that dramatically accelerates dashboard rendering times for any series queried from Prometheus.
 
@@ -71,3 +72,7 @@ The Makefile provides several targets:
 ## Contributing
 
 Refer to [CONTRIBUTING.md](CONTRIBUTING.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fannania%2Ftrickster.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fannania%2Ftrickster?ref=badge_large)
